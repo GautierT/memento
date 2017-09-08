@@ -11,7 +11,7 @@ disableRSS = true
   description = '<!--[-->Un restaurant de qualité servant de la <a href="#menu">Fast Good</a><!--]--><br />
                 <!--[-->au milieu du <a href="#intro">9 ème</a>.<!--]-->'
   logo = "fa-diamond"
-  copyright = "Memento"
+  copyright = "Memento ++"
 
 
 [[params.social]]
